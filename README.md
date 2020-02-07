@@ -78,23 +78,25 @@ ViewPagerAndroid
 
 ```
 
-## Applications and Snippets
+## Applications 
 
 https://github.com/kukuu/react-native-ChatApp/tree/master/react-native-ChatApp
 
 ## Resources
 
-1. https://facebook.github.io/react-native/docs/getting-started
+1. https://facebook.github.io/react-native/
 
-2. PWA - https://github.com/kukuu/PWA
+2. https://facebook.github.io/react-native/docs/getting-started
 
-3. Algorithm - https://github.com/kukuu/algorithms/tree/master/algorithms 
+3. PWA - https://github.com/kukuu/PWA
 
-4. Software Design and Management - https://github.com/kukuu/algorithms/blob/master/algorithms.md
+4. Algorithm - https://github.com/kukuu/algorithms/tree/master/algorithms 
 
-5. Systems Design and Architecture - https://github.com/kukuu/algorithms/blob/master/system-design-architecture.md
+5. Software Design and Management - https://github.com/kukuu/algorithms/blob/master/algorithms.md
 
-6. Managing RESTful API calls with REACT and REDUX - https://github.com/kukuu/algorithms/tree/master/algorithms/react 
+6. Systems Design and Architecture - https://github.com/kukuu/algorithms/blob/master/system-design-architecture.md
+
+7. Managing RESTful API calls with REACT and REDUX - https://github.com/kukuu/algorithms/tree/master/algorithms/react 
 
 
 ## RESTful Architecture:
@@ -124,7 +126,6 @@ Which we’ll take a look at in the next section!
 
 
 ```
-
 
 # PWA 
 
