@@ -3,9 +3,9 @@ import { Platform, StatusBar } from 'react-native';
 import { createAppContainer, createSwitchNavigator } from 'react-navigation';
 import SplashScreen from 'react-native-splash-screen';
 import Instabug from 'instabug-reactnative';
-import Login from 'login';
-import DashboardTabs from 'tab-navigation/dashboard-tabs';
-import ProgressIndicator from 'progress-indicator/progress-indicator.component';
+import Login from 'login-index';
+import DashboardTabs from 'dashboard-tabs';
+import ProgressIndicator from 'progress-indicator.component';
 
 const RootNavigation = createSwitchNavigator({
   Login: {
