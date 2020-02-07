@@ -30,7 +30,7 @@ export default class ButtonBasics extends Component {
           <Button
             onPress={this._onPressButton}
             title="OK!"
-            color="#841584"
+            color="#841585"
           />
         </View>
       </View>
