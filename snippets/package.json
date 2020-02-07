@@ -67,5 +67,28 @@
     "react-native-circular-progress": "^1.3.4",
     "react-native-svg": "^9.13.3",
     "react-test-renderer": "16.9.0"
+  },
+  "jest": {
+    "preset": "react-native",
+    "setupFilesAfterEnv": [
+      "jest-enzyme"
+    ],
+    "setupFiles": [
+      "react-native/jest/setup.js",
+      "./node_modules/react-native-gesture-handler/jestSetup.js",
+      "./config/jest-setup.js"
+    ],
+    "testEnvironment": "enzyme",
+    "testEnvironmentOptions": {
+      "enzymeAdapter": "react16"
+    },
+    "transformIgnorePatterns": [
+      "node_modules/(?!((jest-)?react-native|react-clone-referenced-element|expo(nent)?|@expo(nent)?/.*|react-navigation|@react-navigation/.*|sentry-expo|native-base))"
+    ]
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/"
+    ]
   }
 }
