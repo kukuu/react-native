@@ -80,7 +80,11 @@ ViewPagerAndroid
 
 ## Applications 
 
-https://github.com/kukuu/react-native-ChatApp/tree/master/react-native-ChatApp
+Chat App - https://github.com/kukuu/react-native-ChatApp/tree/master/react-native-ChatApp
+
+Multi-media - https://github.com/kukuu/react-native/tree/master/AndroidStudio/Multimedia 
+
+MyExpo - https://github.com/kukuu/react-native/tree/master/AndroidStudio/myExpoApp1
 
 ## Resources
 
