@@ -81,15 +81,15 @@ ViewPagerAndroid
 ## Applications 
 
 
-Nissan Connect Service - https://www.nissan.co.uk/ownership/nissan-infotainment-system/nissanconnect-services.html
+1. Nissan Connect Service - https://www.nissan.co.uk/ownership/nissan-infotainment-system/nissanconnect-services.html
 
-Chat App - https://github.com/kukuu/react-native-ChatApp/tree/master/react-native-ChatApp
+2. Chat App - https://github.com/kukuu/react-native-ChatApp/tree/master/react-native-ChatApp
 
-Multi-media - https://github.com/kukuu/react-native/tree/master/AndroidStudio/Multimedia 
+3. Multi-media - https://github.com/kukuu/react-native/tree/master/AndroidStudio/Multimedia 
 
-MyExpo - https://github.com/kukuu/react-native/tree/master/AndroidStudio/myExpoApp1 
+4. MyExpo - https://github.com/kukuu/react-native/tree/master/AndroidStudio/myExpoApp1 
 
-BBC iPlayer  linking directly to your favourite scene in TV programmes  https://www.bbc.co.uk/blogs/bbcinternet/2009/07/bbc_iplayer_now_lets_you_link.html
+5. BBC iPlayer  linking directly to your favourite scene in TV programmes  https://www.bbc.co.uk/blogs/bbcinternet/2009/07/bbc_iplayer_now_lets_you_link.html
 
 ## Resources
 
