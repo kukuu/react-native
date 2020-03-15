@@ -93,9 +93,9 @@ ViewPagerAndroid
 
 ## Resources
 
-1. https://facebook.github.io/react-native/
+1. Home - https://facebook.github.io/react-native/
 
-2. https://facebook.github.io/react-native/docs/getting-started
+2. Getting started - https://facebook.github.io/react-native/docs/getting-started
 
 3. PWA - https://github.com/kukuu/PWA
 
@@ -131,6 +131,34 @@ whereas a GET request to /cities/seattle would render the city with an ID of sea
 
 v. Similarly, REST utilizes standard methods like GET, PUT, DELETE and POST to perform actions.
 Which we’ll take a look at in the next section!
+
+vi. HATEOS - https://restfulapi.net/hateoas/ 
+
+vii. AXIOS or FETCH - https://medium.com/frontend-digest/axios-vs-fetch-which-to-use-in-2019-6678c083c5c
+
+vii. OWASP (top 10) - https://www.cloudflare.com/learning/security/threats/owasp-top-10/
+
+```
+1. Injection
+
+2. Broken Authentication
+
+3. Sensitive Data Exposure
+
+4. XML External Entities (XEE)
+
+5. Broken Access Control
+
+6. Security Misconfiguration
+
+7. Cross-Site Scripting
+
+8. Insecure Deserialization
+
+9. Using Components With Known Vulnerabilities
+
+10.  Insufficient Logging And Monitoring
+```
 
 
 
