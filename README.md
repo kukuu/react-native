@@ -97,15 +97,17 @@ ViewPagerAndroid
 
 2. Getting started - https://facebook.github.io/react-native/docs/getting-started
 
-3. PWA - https://github.com/kukuu/PWA
+3. Android & iOS installations -https://www.youtube.com/watch?v=RBZL6PO2ytc
 
-4. Algorithm - https://github.com/kukuu/algorithms/tree/master/algorithms 
+4. PWA - https://github.com/kukuu/PWA
 
-5. Software Design and Management - https://github.com/kukuu/algorithms/blob/master/algorithms.md
+5. Algorithm - https://github.com/kukuu/algorithms/tree/master/algorithms 
 
-6. Systems Design and Architecture - https://github.com/kukuu/algorithms/blob/master/system-design-architecture.md
+6. Software Design and Management - https://github.com/kukuu/algorithms/blob/master/algorithms.md
 
-7. Managing RESTful API calls with REACT and REDUX - https://github.com/kukuu/algorithms/tree/master/algorithms/react 
+7. Systems Design and Architecture - https://github.com/kukuu/algorithms/blob/master/system-design-architecture.md
+
+8. Managing RESTful API calls with REACT and REDUX - https://github.com/kukuu/algorithms/tree/master/algorithms/react 
 
 
 ## RESTful Architecture:
