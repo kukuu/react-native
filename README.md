@@ -97,7 +97,9 @@ ViewPagerAndroid
 
 2. Getting started - https://facebook.github.io/react-native/docs/getting-started
 
-3. Android & iOS installations -https://www.youtube.com/watch?v=RBZL6PO2ytc
+3. Android & iOS installations - https://www.youtube.com/watch?v=RBZL6PO2ytc
+
+4. Running App in Simulator - https://reactnative.dev/docs/0.6/running-on-simulator-ios
 
 4. PWA - https://github.com/kukuu/PWA
 
