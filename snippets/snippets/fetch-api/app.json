@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "fetch-example",
-    "description": "Example usage",
+    "description": "Example usage. Target - iOS",
     "slug": "snack-ca0e69fb-85e8-4b6c-b26a-c5983ddc54fd",
     "privacy": "unlisted",
     "sdkVersion": "36.0.0",
